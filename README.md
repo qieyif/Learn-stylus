@@ -1,6 +1,6 @@
 # CSS预处理器（**stylus**）
 
-> - ***Stylus***是css预处理器。
+> - **Stylus**是css预处理器。
 > - 我们使用过***Sass*** 或者 ***Less***编写css的都知道，能够更好的管理开发css代码。Sass效率开发等是要高于less的。
 > - Sass的运行环境是Ruby，而Stylus是基于Node.js的。原理就是用js操作css。这个对于前端工程师来说再熟悉不过了。所以这也是必须要改用Stylus的原因之一吧。
 
